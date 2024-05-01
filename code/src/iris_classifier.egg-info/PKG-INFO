@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: iris-classifier
+Version: 0.1
+Summary: A simple Iris classifier using Keras
+Home-page: https://github.com/linda-liang/iris-classifier
+Author: Ashish Pujari
+Author-email: apujari@northwestern.edu
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+A simple Iris classifier using Keras
